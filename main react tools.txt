@@ -1,0 +1,2 @@
+для Redux:
+npm i --save react-router react_redux react-router-redux
