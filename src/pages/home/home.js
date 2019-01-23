@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import './style.less';
+import './style.sass';
 class HomePage extends Component {
     static path = '/';
     render() {
         return (
-            <div className='row b-nome'>
+            <div className='row b-home'>
                 <div className='col-xl-12'>
                     <ul>
                         <li>Item l</li>
