@@ -9,6 +9,7 @@ class Header extends Component {
                 <ul className="navbar-nav">
                     <li className="nav-item nav-link active"><Link to='/'>Home</Link></li>
                     <li className="nav-item nav-link"><Link to='/contact'>Contact</Link></li>
+                    <li className="nav-item nav-link"><Link to='/uuuuu'>ErrroPage</Link></li>
                 </ul>
             </div>
         </nav>
